@@ -1,0 +1,1 @@
+Analysed retail data , cleaned the data , modified it , and uploaded it in tableau for further analysis to find out the insights from the data and made recomendations  to the stakeholders based on the outcome.
